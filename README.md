@@ -37,4 +37,4 @@ Data can be downloaded from [here](http://insideairbnb.com/get-the-data.html).
 - Top Host of That Area
 - Zip Code of that Area
 
-![map_3](https://github.com/RheagalFire/Assignment/blob/master/Images/geo-plot.gif)
+![map_3](https://github.com/RheagalFire/Assignment/blob/master/Images/geo-plot-2.gif)
