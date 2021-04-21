@@ -16,9 +16,9 @@ Data can be downloaded from [here](http://insideairbnb.com/get-the-data.html).
 #### Thematic Maps
 
 #### Private Room
-![map](https://github.com/RheagalFire/Assignment/blob/master/Images/SIngle%20Room.png)
+![map](https://github.com/RheagalFire/Assignment/blob/master/Images/Private-Room.png)
 #### Entire Home
-![map2](https://github.com/RheagalFire/Assignment/blob/master/Images/Entire-Home.png)
+![map2](https://github.com/RheagalFire/Assignment/blob/master/Images/home.png)
 
 
 ### Ans 3:
